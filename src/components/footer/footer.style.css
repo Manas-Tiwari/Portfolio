@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+    .copyright {
+        @apply block p-2 font-poppins ;
+        border-color :  linear-gradient(90deg, hsla(312, 77%, 86%, 1), hsla(220, 61%, 79%, 1));    
+    }
+    .btn-sec {
+        @apply px-1.5 m-1;
+        border-image: linear-gradient(45deg, purple, orange) 1;    
+    }
+    
+}

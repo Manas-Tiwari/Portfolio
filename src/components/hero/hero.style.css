@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply py-3 px-5 mx-7 my-1 bg-[#edf2fb] border-b-4;
+    border-image: linear-gradient(45deg, purple, orange) 1;
+  }
+}
