@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3ebdf2eb.css",
+    "main.js": "/portfolio/static/js/main.2ee9d74f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/the_weeknd_poster2.png": "/portfolio/static/media/the_weeknd_poster2.4e19a95af43790025656.png",
+    "index.html": "/portfolio/index.html",
+    "main.3ebdf2eb.css.map": "/portfolio/static/css/main.3ebdf2eb.css.map",
+    "main.2ee9d74f.js.map": "/portfolio/static/js/main.2ee9d74f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ebdf2eb.css",
+    "static/js/main.2ee9d74f.js"
+  ]
+}
