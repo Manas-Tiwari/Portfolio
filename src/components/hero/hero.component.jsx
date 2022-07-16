@@ -39,7 +39,7 @@ const Hero = () => {
             </span>
 
             <a href="https://www.google.com" rel="noreferrer">
-              <button className="btn-primary mt-10 ml-80 px-8 py-6 text-xl font-poppins ">
+              <button className="btn-primary mt-10 ml-80 px-8 py-6 text-xl font-poppins shadow-lg">
                 <FontAwesomeIcon icon={faFile} className="pr-4 text-2xl" />
                 Download Resume
               </button>
