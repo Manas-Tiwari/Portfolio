@@ -7,4 +7,10 @@
     @apply py-3 px-5 mx-7 my-1 bg-[#edf2fb] border-l-2;
     border-image: linear-gradient(45deg, purple, orange) 1;
   }
+  .hero-img {
+    
+    box-shadow: rgba(10, 147, 150, 0.4) 7px 7px,
+      rgba(10, 147, 150, 0.3) 15px 15px, rgba(10, 147, 150, 0.2) 20px 20px,
+      rgba(10, 147, 150, 0.1) 25px 25px, rgba(10, 147, 150, 0.05) 30px 30px;
+  }
 }

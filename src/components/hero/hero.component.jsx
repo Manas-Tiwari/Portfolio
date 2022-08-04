@@ -39,14 +39,14 @@ const Hero = () => {
             </span>
 
             <a href="https://www.google.com" rel="noreferrer">
-              <button className="btn-primary mt-10 ml-80 px-8 py-6 text-xl font-poppins shadow-lg">
+              <button className="btn-primary mt-10 ml-80 px-8 py-6 text-xl font-poppins">
                 <FontAwesomeIcon icon={faFile} className="pr-4 text-2xl" />
                 Download Resume
               </button>
             </a>
           </div>
-          <div className="hero-img py-2 px-4 mb-5">
-            <img src={TheWeeknd} alt="Hero" />
+          <div>
+            <img className="hero-img" src={TheWeeknd} alt="Hero" />
           </div>
         </main>
       </div>
