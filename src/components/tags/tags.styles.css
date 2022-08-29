@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .tag-border {
+    @apply rounded-lg;
+    /* border-image: #0077b6; */
+    border-radius: 2px;
+  }
+}

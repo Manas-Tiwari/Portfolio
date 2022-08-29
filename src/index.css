@@ -2,11 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@tailwind components {
-  * {
-    @apply bg-gray-100;
-  }
-}
 
 body {
   margin: 0;
@@ -21,4 +16,11 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@layer components {
+    .page {
+        border-image: linear-gradient(90deg, purple, orange) 1;    
+    }
+    
 }

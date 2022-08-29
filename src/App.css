@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-color {
+    @apply border-t-4 border-l-4;
+    border-image: linear-gradient(
+        45deg,
+        #0e0725,
+        #5c03bc,
+        #1a2766,
+        #0a1647,
+        #1a2766,
+        #e536ab,
+        #074170,
+        #ae1b1e,
+        #121b67
+      )
+      1;
+  }
+}

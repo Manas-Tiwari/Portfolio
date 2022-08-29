@@ -4,8 +4,7 @@
 
 @layer components {
   .btn-primary {
-    @apply py-3 px-5 mx-7 my-1 bg-[#edf2fb] border-t-2;
-    border-image: linear-gradient(45deg, purple, orange) 1;
+    @apply py-3 px-5 mx-7 my-1 bg-[#edf2fb];
     /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
     /* box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px; */
     box-shadow: rgba(10, 147, 150, 0.2) 5px 5px,
