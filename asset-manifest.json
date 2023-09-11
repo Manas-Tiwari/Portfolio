@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a535589b.css",
-    "main.js": "/portfolio/static/js/main.b5adfda8.js",
+    "main.js": "/portfolio/static/js/main.9731b0ec.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/the_weeknd_poster2.png": "/portfolio/static/media/the_weeknd_poster2.4e19a95af43790025656.png",
+    "static/media/067_Manas Tiwari_pro.jpg": "/portfolio/static/media/067_Manas Tiwari_pro.6807ea93a5c54489bce8.jpg",
+    "static/media/Manas-tiwari_resume.pdf": "/portfolio/static/media/Manas-tiwari_resume.e16f3736fb24848d209f.pdf",
     "static/media/cli.png": "/portfolio/static/media/cli.0d7d87e1ee013779cdbb.png",
     "index.html": "/portfolio/index.html",
     "main.a535589b.css.map": "/portfolio/static/css/main.a535589b.css.map",
-    "main.b5adfda8.js.map": "/portfolio/static/js/main.b5adfda8.js.map",
+    "main.9731b0ec.js.map": "/portfolio/static/js/main.9731b0ec.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a535589b.css",
-    "static/js/main.b5adfda8.js"
+    "static/js/main.9731b0ec.js"
   ]
 }
